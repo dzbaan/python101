@@ -11,7 +11,7 @@ http://python101.rtfd.io
 
 Nasze repozytorium
 -------------------
-
+asdasadsasdasdasd
 Zachęcamy do sklonowania tego repozytorium lokalnie:
 
     $ git clone https://github.com/koduj-z-klasa/python101/
